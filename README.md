@@ -1,4 +1,4 @@
-![screenshot](src/employees-app.png)
+![screenshot](./employees-app.png)
 
 # Getting Started with Create React App
 
