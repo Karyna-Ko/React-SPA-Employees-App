@@ -1,5 +1,10 @@
 ![screenshot](./employees-app.png)
 
+### Функціонал «Employees App» дозволяє:
+- Додавати нових співробітників у формі та вказувати його зарплатню;
+- При кліку на cookies відмічати співробітника, який отримає бонуси;
+- При кліку на прізвище та ім'я, зробити помітку у вигляді зірочки, яка говорить про підвищення працівника;
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
